@@ -5,14 +5,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rodrigo-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rodrigo-laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=ff0000">
+  <img align="center" alt="Rodrigo-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rodrigo-Laravel" height="30" width="40" src="https://icongr.am/devicon/laravel-plain-wordmark.svg?size=128&color=ff0000">
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rodrigo-node-js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Rodrigo-Node-Js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rodrigo-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  
+  <img align="center" alt="Rodrigo-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=122&color=ff0000">
 </div>
 
 ##
