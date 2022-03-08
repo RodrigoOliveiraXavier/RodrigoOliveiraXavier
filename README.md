@@ -1,3 +1,7 @@
+Apenas um cara que ama programação 😄
+
+##
+
 <div style="padding: 0 1em;">
   <a href="https://github.com/RodrigoOliveiraXavier">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoOliveiraXavier&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
